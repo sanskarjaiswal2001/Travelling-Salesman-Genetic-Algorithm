@@ -1,6 +1,6 @@
 # Travelling-Salesman-Genetic-Algorithm
 
-## This is the improved version of the [brute force approach]() which takes less time to give results for greater number of cities.
+## This is the improved version of the [brute force approach](https://github.com/sanskarjaiswal2001/Travelling-salesman-lexicography) which takes less time to give results for greater number of cities.
 
 As in the older version it would take **(n!/60) seconds** (considering 60 frames per second or 60 iterations per second) to get the desired output.
 
