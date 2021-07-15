@@ -10,7 +10,7 @@ var curBest;
 var sequence = [];
 function setup() 
 {
-  createCanvas(1536, 749);
+  createCanvas(windowWidth, windowHeight);
   for (var i = 0; i < totalCities; i++)
   {
       var v = createVector(random(width), random(height / 2));
